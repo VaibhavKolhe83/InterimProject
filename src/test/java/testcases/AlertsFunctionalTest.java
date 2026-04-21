@@ -20,12 +20,6 @@ import pages.AlertsPage;
 import utils.AlertHandlers;
 
 
-///////////////////////////////////////
-//------------IMP------------------///
-//////////////////////////////////////
-
-
-
 //Functional tests for browser alert interactions
 public class AlertsFunctionalTest {
 
